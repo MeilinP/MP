@@ -2,7 +2,7 @@
 title: "FinBERT Sentiment Alpha Strategy"
 excerpt: "Sentiment-based trading strategy achieving 14.5% annualized alpha using NLP on 330,000+ financial headlines"
 collection: portfolio
-category: sentiment-analysis
+permalink: /portfolio/sentiment-1-finbert/
 ---
 
 ## Overview

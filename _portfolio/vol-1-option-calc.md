@@ -2,7 +2,7 @@
 title: "Option Price Calculator"
 excerpt: "Black-Scholes and binomial tree option pricing with Greeks visualization"
 collection: portfolio
-category: volatility
+permalink: /portfolio/vol-1-option-calc/
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 title: "Market Tempo: Jazz Patterns in Financial Markets"
 excerpt: "Exploring correlations between Charlie Parker's jazz rhythms and SPY price movements using Dynamic Time Warping"
 collection: portfolio
-category: for-fun
+permalink: /portfolio/fun-2-market-tempo/
 ---
 
 ## Overview

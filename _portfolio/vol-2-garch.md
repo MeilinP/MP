@@ -2,7 +2,7 @@
 title: "Volatility Forecasting with GARCH Models"
 excerpt: "Time-series volatility modeling using GARCH family models for risk management and trading"
 collection: portfolio
-category: volatility
+permalink: /portfolio/vol-2-garch/
 ---
 
 ## Overview

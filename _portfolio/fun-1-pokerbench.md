@@ -2,7 +2,7 @@
 title: "PokerBench"
 excerpt: "Benchmarking LLM decision-making in poker scenarios with expected value analysis"
 collection: portfolio
-category: for-fun
+permalink: /portfolio/fun-1-pokerbench/
 ---
 
 ## Overview

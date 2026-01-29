@@ -2,7 +2,7 @@
 title: "Event Study: Earnings Sentiment Impact"
 excerpt: "Analyzing market reactions to earnings announcements using sentiment analysis and event study methodology"
 collection: portfolio
-category: sentiment-analysis
+permalink: /portfolio/sentiment-2-event-study/
 ---
 
 ## Overview

@@ -2,7 +2,7 @@
 title: "Market Regime Identifier for SPY"
 excerpt: "Multi-timeframe market regime detection system for systematic trading decisions"
 collection: portfolio
-category: signal-extraction
+permalink: /portfolio/signal-1-regime/
 ---
 
 ## Overview

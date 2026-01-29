@@ -2,7 +2,7 @@
 title: "FVG-OB Algorithmic Trading Strategy"
 excerpt: "Fair Value Gap and Order Block detection system using Lumibot with live trading integration"
 collection: portfolio
-category: algo-trading
+permalink: /portfolio/algo-1-fvg-ob/
 ---
 
 ## Overview
