@@ -11,7 +11,7 @@ repository               : "MeilinP/MP"
 # Site Author
 author:
   name             : "Meilin Pan"
-  avatar           : "MP/images/IMG_7123.JPG"
+  avatar           : "/MP/images/IMG_7123.JPG"
   bio              : "Quantitative researcher focused on algorithmic trading strategies and financial machine learning"
   location         : "Los Angeles, CA"
   employer         : 
