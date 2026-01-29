@@ -4,7 +4,7 @@ title                    : "Meilin Pan"
 title_separator          : "-"
 name                     : &name "Meilin Pan"
 description              : &description "MS Applied Data Science @ USC | Quantitative Finance & Algorithmic Trading"
-url                      : https://MeilinP.github.io
+url                      : https://MP.github.io
 baseurl                  : "/MP"
 repository               : "MeilinP/MP"
 
