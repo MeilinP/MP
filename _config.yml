@@ -5,8 +5,8 @@ title_separator          : "-"
 name                     : &name "Meilin Pan"
 description              : &description "MS Applied Data Science @ USC | Quantitative Finance & Algorithmic Trading"
 url                      : https://MeilinP.github.io
-baseurl                  : "" # leave blank if using username.github.io format
-repository               : "MeilinP/MeilinP.github.io"
+baseurl                  : "/MP"
+repository               : "MeilinP/MP"
 
 # Site Author
 author:
