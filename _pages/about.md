@@ -15,8 +15,7 @@ I am a recent graduate from the University of Southern California with an MS in 
 My recent work focuses on developing systematic trading strategies using machine learning and alternative data:
 
 **FinBERT Sentiment Alpha Strategy**  
-Built a sentiment-based trading strategy using FinBERT on 330,000+ financial headlines (2009-2020). Implemented Information Coefficient analysis and Fama-French factor attribution, achieving 14.5% annualized alpha before transaction costs.
-
+Built sentiment signal from **330K+ financial headlines** (S&P 500, 2009–2020) using FinBERT; achieved **0.71% daily IC** and **15% annualized alpha** (t=2.73) after Fama-French risk adjustment. Optimized strategy to **Sharpe 1.26** with weekly rebalancing and news volume filters. [GitHub →](https://github.com/MeilinP/FinBERT_Sentiment_Analysis_on_SP500Constitutes)
 **Market Tempo: Jazz Patterns in Financial Markets**  
 An innovative research project exploring correlations between Charlie Parker's jazz rhythms and SPY price movements using Dynamic Time Warping. Achieved 72% accuracy for 60-minute price predictions.
 
